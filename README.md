@@ -2,6 +2,8 @@
 
 My first published project ... 12 years ago :)))
 
+A 13-year-old boy's project
+
 ![banner](screenshot.png)
 
 Visual Basic 6
