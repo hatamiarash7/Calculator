@@ -2,7 +2,7 @@
 
 My first published project ... 12 years ago :)))
 
-A 13-year-old boy's project
+A 13-year-old boy's project. Calculator with music 😄
 
 ![banner](screenshot.png)
 
